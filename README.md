@@ -24,7 +24,7 @@ To improve generalization, the following transforms were applied:
 - **Final Test Accuracy:** 57%
 - **Training Time:** 50 Epochs in ~18 minutes on CUDA
 
-## Sample prediction
+### Sample prediction
 The jupyter notebook includes a inference script that loads the model_weights.pth to predict random test images
 
 ### Prerequisites
