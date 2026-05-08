@@ -10,7 +10,7 @@
 
 ### Hyperparameters
 - **Optimizer:** `Adam` with a initial 0.0005 learning rate
-- **Scheduler:** `StepLr` with a 0.2 gamma each 20 epochs
+- **Scheduler:** `StepLr` with a 0.35 gamma each 20 epochs
 - **Loss Function:** `CrossEntropyLoss`
 
 ### Data Augmentation
